@@ -1,3 +1,5 @@
+Implemented Sign Sgd and compared its results with normal gradient descent.
+Link for the paper- https://arxiv.org/abs/1802.04434
 Important files
 - NN_breastCancer_normal.py: Neural network non-distributed for breast cancer.
 - NN_breastCancer_distributed.py: Neural network distributed for breast cancer.
